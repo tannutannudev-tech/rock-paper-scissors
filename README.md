@@ -25,7 +25,7 @@ You play against the computer and the score updates in real time.
 
 ## 🚀 How to Run
 
-1. Clone the repository : 
+1. Clone the repository : https://tannutannudev-tech.github.io/rock-paper-scissors/
 2. Open the folder
 3. Open `index.html` in your browser
 
